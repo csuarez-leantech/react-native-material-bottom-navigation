@@ -149,7 +149,7 @@ Default: `{ numberOfLines: 1 }`
 
 ### labelStyle
 
-Type: `Text.propTypes.style`
+Type: `Unknown`
 
 Extends the style of the label.
 

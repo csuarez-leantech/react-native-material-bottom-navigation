@@ -1,6 +1,6 @@
 // @flow
 
-declare module 'react-native-material-bottom-navigation' {
+declare module '@csuarez-leantech/fork-react-native-material-bottom-navigation' {
   // A few type definitions.
   // This is adoped from react-navigation/flow/react-navigation.js
   declare type StyleObj =

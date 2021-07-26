@@ -28,7 +28,7 @@ Extends the style of the badge's view.
 
 ### textStyle
 
-Type: `Text.propTypes.style`
+Type: `Unknown`
 
 Extends the style of wrapped `Text` component.
 
